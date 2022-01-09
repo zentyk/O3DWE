@@ -1,2 +1,2 @@
-# JSGE
-Another Javascript Game Engine
+# marrus-engine
+Marrus WebGL Game Engine
