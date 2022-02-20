@@ -1,0 +1,30 @@
+{
+  "name": "BabylonTs Template",
+  "version": "1.0.0",
+  "description": "A BabylonTS Template ",
+  "main": "index.js",
+  "scripts": {
+    "build-dev": "node esbuild-dev.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zentyk/phaser3-demo.git"
+  },
+  "keywords": [
+    "game-engine",
+    "Typescript"
+  ],
+  "author": "Zentyk",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/zentyk/babylon-template/issues"
+  },
+  "homepage": "https://github.com/zentyk/babylon-template#readme",
+  "devDependencies": {
+    "esbuild": "^0.14.12",
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "sirdez": "^0.0.4"
+  }
+}
